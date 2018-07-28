@@ -8,3 +8,7 @@ Lab2
 Wiki : https://github.com/shankarpentyala07/HadoopEcoSystem/wiki/Lab2
 
 Video : https://www.youtube.com/watch?v=fvq56ZQK284&feature=youtu.be
+
+Spark Lab1 :
+
+Video : https://www.youtube.com/watch?v=4eSfcYIx7T0&feature=youtu.be
