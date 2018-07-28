@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jul 23 17:06:19 CDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0164-c92d-ce17-000010d66430 
+on database directory C:\Users\mayanka\Box Sync\CS5590-AppliedProgrammingSeries\CSEE5590-BigDataProgramming-2018Summer\2018Summer\Mod2-L6-SparkMLib\PySpark_MLib\classification\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7e87513 
+Loaded from file:/C:/Users/mayanka/AppData/Local/Programs/Python/Python36/Lib/site-packages/pyspark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\Users\mayanka\Box Sync\CS5590-AppliedProgrammingSeries\CSEE5590-BigDataProgramming-2018Summer\2018Summer\Mod2-L6-SparkMLib\PySpark_MLib\classification
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
